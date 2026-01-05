@@ -1,0 +1,22 @@
+### Create
+POST http://localhost:3000/api/gatos/create
+Content-Type: application/json
+Authorization: 1234
+
+{"name": "Tom"}
+### Read
+GET http://localhost:3000/api/gatos/getAll
+Authorization: 1234
+### Read
+GET http://localhost:3000/api/gatos/1
+Authorization: 1234
+### Update  recharge
+PUT http://localhost:3000/api/gatos/update/2
+Content-Type: application/json
+Authorization: 1234
+
+{"name": "Helena"}
+### Delete
+DELETE http://localhost:3000/api/gatos/delete/1
+Authorization: 1234
+

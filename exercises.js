@@ -37,7 +37,8 @@ const objeto2 = {nombre: "Helena", edad:8}
 
 const {nombre} = objeto2
 
-// console.log(nombre)
+console.log(nombre)
+console.log(objeto2.nombre)
 // console.log(objeto2.nombre)
 
 // console.log(true || "segundo")
@@ -52,5 +53,5 @@ const ternaria2 = [].length ? "primero" : "segundo"
 const ternaria3 = true ?? "segundo"
 const ternaria4 = "primero" ?? "segundo"
 
-console.log(ternaria3)
-console.log(ternaria4)
+//console.log(ternaria3)
+//console.log(ternaria4)

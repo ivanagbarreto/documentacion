@@ -1,7 +1,7 @@
 ```sh
 mysql --version
 
-#acceder a mysql al motor
+# Acceder a mysql al motor
 mysql -u root
 
 ```

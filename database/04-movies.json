@@ -1,0 +1,14 @@
+{
+    "moviestables":[
+        {"id":1, "title":"Shrek", "year":2000 },
+        {"id":2, "title":"Toy Story", "year":1999}
+    ],
+    "directortable":[
+        {"id":1, "name":"James Cameron", "country":"EEUU"},
+        {"id":2, "name":"Quentin Tarantino", "country":"EEUU"}
+    ],
+    "genretable":[
+        {"id":1, "name":"drama"},
+        {"id":2, "name":"suspenso"}
+    ]
+}
